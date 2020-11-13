@@ -1,7 +1,7 @@
 # sleekclass
 
 ```
-sleekclass is a frontend application, presenting the data containing students details and their grades, from https://www.hatchways.io/api/assessment/students. In addition, tags can be added to each student to classify him/her and a search feature to filter them based on tags or student name.
+sleekclass is a frontend application in vue, presenting the data containing students details and their grades, from https://www.hatchways.io/api/assessment/students. In addition, tags can be added to each student to classify him/her and a search feature to filter them based on tags or student name.
 ```
 
 ## Project setup
